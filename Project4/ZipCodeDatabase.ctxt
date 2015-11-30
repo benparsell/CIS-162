@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ZipCodeDatabase()
+comment0.text=\r\n\ Default\ Constuctor\ that\ instaniates\ new\ ArrayList\ \r\n\ list\r\n
+comment1.params=zip
+comment1.target=ZipCode\ findZip(int)
+comment1.text=\r\n\ Method\ finds\ zip\ code\ info\ with\ given\ zip\ code\r\n\ \r\n\ @param\ zip\ Zip\ Code\r\n\ \r\n\ @return\ s\ returns\ an\ object\ from\ ArrayList\ s\r\n\ else\r\n\ @return\ will\ return\ null\ if\ nothing\ happens\ above\r\n
+comment2.params=zip1\ zip2
+comment2.target=int\ distance(int,\ int)
+comment2.text=\r\n\ Method\ finds\ the\ distance\ in\ miles\ between\ two\ zip\ codes\r\n\ \r\n\ @param\ zip1\ First\ Zip\ Code\r\n\ @param\ zip2\ Second\ Zip\ Code\r\n\ \r\n\ @return\ returns\ final\ milage\ output\r\n
+comment3.params=pZip\ pRadius
+comment3.target=java.util.ArrayList\ withinRadius(int,\ int)
+comment3.text=\r\n\ Method\ to\ find\ all\ zip\ codes\ within\ a\ given\ radius\r\n\ \r\n\ @param\ pZip\ zip\ code\ for\ distance\ method\r\n\ @param\ pRadius\ Radius\ for\ distance\ method\r\n\ \r\n\ @return\ results\ ArrayList\ holding\ all\ zipcodes\ found\r\n
+comment4.params=
+comment4.target=int\ getCount()
+comment4.text=\r\n\ Method\ for\ ArrayList\ size\r\n\ \r\n\ @return\ list.size()\ size\ of\ ArrayList\r\n
+comment5.params=pZip
+comment5.target=ZipCode\ findFurthest(int)
+comment5.text=\r\n\ Method\ to\ find\ furthest\ zip\ code\ from\ given\ zip\ code\r\n\ \r\n\ @param\ pZip\ local\ variable\ for\ zip\ code\r\n\ @return\ maxZipCode\ furthest\ zip\ code\r\n
+comment6.params=str
+comment6.target=java.util.ArrayList\ search(java.lang.String)
+comment6.text=\r\n\ Search\ method\ to\ find\ a\ ZipCode\ from\ ArrayList\r\n\ \r\n\ @param\ str\ local\ string\ for\ boolean\ expression\r\n\ @return\ zipCodes\ ArrayList\ of\ matched\ zip\ codes\r\n
+comment7.params=filename
+comment7.target=void\ readZipCodeData(java.lang.String)
+comment7.text=\r\n\ Method\ to\ read\ local\ file\ off\ client's\ storage\r\n
+numComments=8

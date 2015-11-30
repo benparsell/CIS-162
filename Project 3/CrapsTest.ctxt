@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ BasicTest()
+comment0.text=\r\n\ \ \ \ \ \ This\ is\ the\ most\ basic\ test\r\n\ \ \ \ \ \ It\ will\ test\ for\ one\ single\ roll\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ \ This\ is\ main\ method\r\n\ \ \ \ \ \ Tests\ for\ one\ game\ of\ craps\ (until\ she\ \r\n\ \ \ \ \ \ looses/wins\ 1\ credit.\r\n
+comment2.params=
+comment2.target=void\ AdvancedTest()
+comment2.text=\r\n\ \ \ \ \ \ This\ is\ the\ most\ advanced\ test\r\n\ \ \ \ \ \ It\ will\ test\ until\ the\ user\ looses\ all\ credits.\r\n
+numComments=3
